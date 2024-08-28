@@ -1,5 +1,5 @@
 # Electoral_bond_project
-## Electoral Bond Means
+
 Electoral bonds are financial instruments introduced in India for anonymous donations to political parties, aimed at increasing transparency in political funding, but they have sparked controversy over issues of accountability and potential misuse.
 ## Overview
 This project provides a SQL-based analysis of Electoral Bond data, aiming to uncover insights into funding patterns and political contributions in India. The analysis helps in understanding the flow of funds through electoral bonds and their impact on political parties.
